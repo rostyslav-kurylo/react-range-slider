@@ -1,2 +1,2 @@
-# react-range-slider
-Range slider input on React
+# Range slider
+React range slider input component
